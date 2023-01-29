@@ -1,6 +1,6 @@
 # OS-Threads-Matrix-Multiplication
 Operating system course lab, fall 2022,CCE, FOE, Uof Alexandria.
-Use threads in matrix multiplication.
+Using threads in matrix multiplication.
 
 ## Problem Statement:
 In this project, you will implement two variations of the matrix multiplication algorithm:
